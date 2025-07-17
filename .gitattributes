@@ -1,2 +1,5 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 train.csv filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 7238e7f98a2373c3478578fd2eaaba47cabe7f16
